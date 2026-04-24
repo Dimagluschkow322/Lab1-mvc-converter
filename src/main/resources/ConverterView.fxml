@@ -47,7 +47,7 @@
 
     <!-- Кнопки -->
     <HBox spacing="15" alignment="CENTER">
-        <Button text="🔄 КОНВЕРТИРОВАТЬ" onAction="#handleConvert" prefWidth="160"
+        <Button text=" КОНВЕРТИРОВАТЬ" onAction="#handleConvert" prefWidth="160"
                 style="-fx-background-color: linear-gradient(to right, #26c6da, #00acc1); -fx-text-fill: white; -fx-font-size: 14px; -fx-font-weight: bold; -fx-background-radius: 25px; -fx-padding: 8 20;"/>
         <Button text="🗑 ОЧИСТИТЬ" onAction="#handleClear" prefWidth="120"
                 style="-fx-background-color: transparent; -fx-text-fill: #00838f; -fx-font-size: 14px; -fx-border-color: #80deea; -fx-border-radius: 25px; -fx-padding: 8 20;"/>
